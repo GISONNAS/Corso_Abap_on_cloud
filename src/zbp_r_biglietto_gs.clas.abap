@@ -1,0 +1,5 @@
+CLASS zbp_r_biglietto_gs DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zr_biglietto_gs.
+ENDCLASS.
+
+CLASS zbp_r_biglietto_gs IMPLEMENTATION.
+ENDCLASS.
